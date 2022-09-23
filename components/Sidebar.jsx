@@ -3,5 +3,4 @@ function Sidebar ({ name }) {
       Hello {name}
     </div>
   }
-  exort default Sidebar
-  
+  export default Sidebar
