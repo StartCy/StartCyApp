@@ -4,10 +4,7 @@ This is an app bootstrapped according to the [init.tips](https://init.tips) stac
 
 
 
-- [Next-Auth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [TailwindCSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io) (using @next version? [see v10 docs here](https://alpha.trpc.io))
+
 
 Also checkout these awesome tutorials on `create-t3-app`.
 
